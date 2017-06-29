@@ -1,0 +1,132 @@
+2017-04-01 00:11:50 INFO  CheckTriangle:26 - Start method dataTest with parametrresourse/dataCheckType.json
+2017-04-01 00:11:50 INFO  CheckTriangle:37 - return Collection
+2017-04-01 00:11:51 INFO  CheckTriangle:26 - Start method dataTest with parametrresourse/dataIsExistTriangle.json
+2017-04-01 00:11:51 INFO  CheckTriangle:37 - return Collection
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 9.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 21.0
+2017-04-01 00:11:51 INFO  CheckTriangle:62 - return true rectangular
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 1.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 21.93171219946131
+2017-04-01 00:11:51 INFO  CheckTriangle:68 - return true simple
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 9.055385138137417
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 20.0
+2017-04-01 00:11:51 INFO  CheckTriangle:68 - return true simple
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 9.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 21.0
+2017-04-01 00:11:51 INFO  CheckTriangle:62 - return true rectangular
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 1.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=24.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 21.93171219946131
+2017-04-01 00:11:51 INFO  CheckTriangle:68 - return true simple
+2017-04-01 00:11:51 INFO  CheckTriangle:52 - Start method checkType with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=3.0, y_coord=23.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 9.055385138137417
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=23.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 22.847319317591726
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=12.0, y_coord=24.0]Point [x_coord=12.0, y_coord=44.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 20.0
+2017-04-01 00:11:51 INFO  CheckTriangle:68 - return true simple
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=0.0, y_coord=0.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 0.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 4.123105625617661
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 4.123105625617661
+2017-04-01 00:11:51 INFO  CheckTriangle:25 - return false (Don't Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=0.0, y_coord=0.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 0.0
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 4.123105625617661
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=0.0, y_coord=0.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 4.123105625617661
+2017-04-01 00:11:51 INFO  CheckTriangle:25 - return false (Don't Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)
+2017-04-01 00:11:51 INFO  CheckTriangle:16 - Start method isExistTriangle with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=3.0, y_coord=7.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 5.0990195135927845
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=3.0, y_coord=7.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 3.605551275463989
+2017-04-01 00:11:51 INFO  CheckTriangle:74 - Start method countDistance with parametrPoint [x_coord=2.0, y_coord=2.0]Point [x_coord=1.0, y_coord=4.0]
+2017-04-01 00:11:51 INFO  CheckTriangle:78 - return true 2.23606797749979
+2017-04-01 00:11:51 INFO  CheckTriangle:22 - return true (Exist Triangle)

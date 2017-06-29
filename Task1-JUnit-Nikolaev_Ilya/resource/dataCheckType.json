@@ -1,0 +1,9 @@
+{
+
+	"test_1":{ "PointA.cord_x":"12", "PointA.cord_y":"23", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"rectangular"},
+	"test_2":{ "PointA.cord_x":"12", "PointA.cord_y":"24", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"simple"},
+	"test_3":{ "PointA.cord_x":"3", "PointA.cord_y":"24", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"simple"},
+	"test_4":{ "PointA.cord_x":"12", "PointA.cord_y":"23", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"rectangular"},
+	"test_5":{ "PointA.cord_x":"12", "PointA.cord_y":"24", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"simple"},
+	"test_6":{ "PointA.cord_x":"3", "PointA.cord_y":"24", "PointB.cord_x":"3","PointB.cord_y":"23", "PointC.cord_x":"12", "PointC.cord_y":"44", "typeTriangle":"simple"}
+}
