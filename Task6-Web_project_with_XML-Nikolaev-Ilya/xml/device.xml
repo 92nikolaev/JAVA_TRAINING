@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="devicesXSL.xsl"?>
+<dev:devices xmlns:dst="http://www.epam.by/deviceSimpleTypes" xmlns:dev="http://www.epam.by/devices"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.epam.by/devices devices.xsd">
+	
+	<dev:device dev:id="1">
+		<dst:name>LG 25UM58</dst:name>
+		<dev:origin dev:country="VNM">Vietnam</dev:origin>
+		<dev:price dev:currency="BY">50</dev:price>
+		<dev:type>
+			<dst:isPeripheral>true</dst:isPeripheral>
+			<dst:energyConsumption>27</dst:energyConsumption>
+			<dst:hasCooler>false</dst:hasCooler>
+			<dev:devicesGroup>Input/Output</dev:devicesGroup>
+			<dev:port dev:id="1">COM</dev:port>
+		</dev:type>
+		<dst:isCritical>true</dst:isCritical>
+	</dev:device>
+	<dev:device dev:id="2">
+		<dst:name>Intel Core i7-6700K Skylake</dst:name>
+		<dev:origin dev:country="ALB">Albania</dev:origin>
+		<dev:price dev:currency="BY">650</dev:price>
+		<dev:type>
+			<dst:isPeripheral>false</dst:isPeripheral>
+			<dst:energyConsumption>91</dst:energyConsumption>
+			<dst:hasCooler>false</dst:hasCooler>
+			<dev:devicesGroup>Input/Output</dev:devicesGroup>
+			<dev:port dev:id="3">LPT</dev:port>
+		</dev:type>
+		<dst:isCritical>true</dst:isCritical>
+	</dev:device>
+	<dev:device dev:id="4">
+		<dst:name>AVerMedia Technologies Nova T2</dst:name>
+		<dev:origin dev:country="HT">Haiti</dev:origin>
+		<dev:price dev:currency="BY">123.2</dev:price>
+		<dev:type>
+			<dst:isPeripheral>true</dst:isPeripheral>
+			<dst:energyConsumption>3</dst:energyConsumption>
+			<dst:hasCooler>false</dst:hasCooler>
+			<dev:devicesGroup>Input/Output</dev:devicesGroup>
+			<dev:port dev:id="2">USB</dev:port>
+		</dev:type>
+		<dst:isCritical>true</dst:isCritical>
+	</dev:device>
+	<dev:device dev:id="3">
+		<dst:name>Sony Dualshock 4</dst:name>
+		<dev:origin dev:country="GW">Guinea-Bissau</dev:origin>
+		<dev:price dev:currency="BY">32.20</dev:price>
+		<dev:type>
+			<dst:isPeripheral>false</dst:isPeripheral>
+			<dst:energyConsumption>91</dst:energyConsumption>
+			<dst:hasCooler>false</dst:hasCooler>
+			<dev:devicesGroup>Input/Output</dev:devicesGroup>
+			<dev:port dev:id="3">LPT</dev:port>
+		</dev:type>
+		<dst:isCritical>true</dst:isCritical>
+	</dev:device>
+	
+</dev:devices>
