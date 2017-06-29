@@ -1,4 +1,4 @@
-# JAVA_TRAINING
+# Task 5 XML & XSD
 It is necessary to create an xml-file storing information about objects of a certain domain. To validate the resulting xml-file, it is necessary to develop the corresponding xsd schema.
 
 General requirements for the assignment:
