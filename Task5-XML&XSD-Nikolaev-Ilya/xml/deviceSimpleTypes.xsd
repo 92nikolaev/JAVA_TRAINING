@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.epam.by/deviceSimpleTypes"
+		 xmlns="http://www.epam.by/deviceSimpleTypes" elementFormDefault="unqualified">
+		 
+<!--   xmlns:xs="http://www.w3.org/2001/XMLSchema" задает про странство имен по умолчанию для элементов,
+		 атрибутов и типов схемы, которые принадлежат пространству имен "http://www.w3.org/2001/XMLSchema" и
+  		описаны соответствующей схемой. Также здесь указывается, что элементы и типы данных, относящиеся к пространству имен
+  		 "http://www.w3.org/2001/XMLSchema", должны иметь префикс xs
+  		
+  		Атрибут targetNamespace="http://www.epam.by/deviceSimpleTypes" задает пространство имен для элементов/атрибутов, 
+  		которые описывает данная схема.
+  		
+  		Атрибут xmlns:tns="http://www.epam.by/deviceSimpleTypes"  вводит префикс для пространства
+  		 имен (элементов) данной схемы. То есть для всех элементов, типов, описанных данной схемой и используемых здесь же,
+  		  требуется использовать префикс tns ???????????????????????
+  		  
+  		Атрибут elementFormDefault="qualified" указывает на то, что любой элемент, используемый в XML документе, 
+  		который был декларирован в этой схеме, должен быть уточнен по пространству имен.
+  		
+  		Действие пространства имен распространяется на элемент, где он объявлен, и на все дочерние элементы!!!
+-->
+	
+	<!-- определение простых элементов Дивайса -->
+	
+	<!-- name – название комплектующего -->
+	<xs:element name="name" type="xs:string" />
+	
+	<!--isPeripheral - периферийное устройство либо нет  -->
+	<xs:element name="isPeripheral" type="xs:boolean" />
+	
+	<!-- energyConsumption - энергопотребление (ватт)  -->
+	<xs:element name="energyConsumption" type="xs:positiveInteger"/>
+	
+	<!-- hasCooler - наличие кулера (есть либо нет)  -->
+	<xs:element name="hasCooler" type="xs:boolean" />
+	
+	<!-- isCritical - критично ли наличие комплектующего для работы компьютера  -->
+	<xs:element name="isCritical" type="xs:boolean" />
+		 
+</xs:schema>

@@ -1,0 +1,10 @@
+ERROR - 21 : 33 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dev:origin'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+ERROR - 21 : 33 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dev:origin'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+ERROR - 21 : 33 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dev:origin'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+ERROR - 21 : 33 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dev:origin'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+ERROR - 20 : 14 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dst:namex'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+FATAL - 20 : 43 - The element type "dst:namex" must be terminated by the matching end-tag "</dst:namex>".
+ERROR - 20 : 14 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dst:namex'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+ERROR - 20 : 14 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'dst:namex'. One of '{"http://www.epam.by/deviceSimpleTypes":name}' is expected.
+FATAL - 20 : 43 - The element type "dst:namex" must be terminated by the matching end-tag "</dst:namex>".
+FATAL - 20 : 43 - The element type "dst:namex" must be terminated by the matching end-tag "</dst:namex>".
