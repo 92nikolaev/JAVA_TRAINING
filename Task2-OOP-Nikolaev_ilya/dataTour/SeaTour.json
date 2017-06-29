@@ -1,0 +1,162 @@
+ [
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 9
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "HB",
+    "transport": "plane",
+    "tourCost": 190
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "AI",
+    "transport": "plane",
+    "tourCost": 195
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 22
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "RO",
+    "transport": "plane",
+    "tourCost": 564
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 22
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "BB",
+    "transport": "plane",
+    "tourCost": 673
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 19
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "UAI",
+    "transport": "plane",
+    "tourCost": 265
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 12
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "AI",
+    "transport": "plane",
+    "tourCost": 828
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 9
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "HB",
+    "transport": "plane",
+    "tourCost": 209
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 9
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "FB",
+    "transport": "plane",
+    "tourCost": 722
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "RO",
+    "transport": "plane",
+    "tourCost": 528
+  },
+  {
+    "hotel": "Aldon",
+    "resort": "LoretDemar",
+    "isTransfert": true,
+    "typeTour": "SEA_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 19
+    },
+    "visitedCountries": "Spain",
+    "duration": 14,
+    "meal": "HB",
+    "transport": "plane",
+    "tourCost": 138
+  }
+]

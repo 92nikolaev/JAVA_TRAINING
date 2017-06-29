@@ -1,0 +1,202 @@
+[
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 8
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "RO",
+    "transport": "train",
+    "tourCost": 474
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 4
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "AI",
+    "transport": "train",
+    "tourCost": 743
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 23
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "BB",
+    "transport": "train",
+    "tourCost": 898
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 15
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "FB",
+    "transport": "train",
+    "tourCost": 744
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 7
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "HB",
+    "transport": "train",
+    "tourCost": 105
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 1
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "UAI",
+    "transport": "train",
+    "tourCost": 655
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "RO",
+    "transport": "train",
+    "tourCost": 826
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "BB",
+    "transport": "train",
+    "tourCost": 45
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 4
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "FB",
+    "transport": "train",
+    "tourCost": 60
+  },
+  {
+    "typeTherapy": "Nasmork",
+    "includingProcedures": [
+      "Swoch",
+      "IgloYaklovanie",
+      "Magnit",
+      "Grizy"
+    ],
+    "typeTour": "THERAPY_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 9
+    },
+    "visitedCountries": "Belarus",
+    "duration": 17,
+    "meal": "RO",
+    "transport": "train",
+    "tourCost": 101
+  }
+]

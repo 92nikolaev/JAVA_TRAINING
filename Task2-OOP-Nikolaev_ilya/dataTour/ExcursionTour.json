@@ -1,0 +1,192 @@
+[
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 9
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "AI",
+    "transport": "bus",
+    "tourCost": 182
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 19
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "RO",
+    "transport": "bus",
+    "tourCost": 424
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "BB",
+    "transport": "bus",
+    "tourCost": 991
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 24
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 462
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "UAI",
+    "transport": "bus",
+    "tourCost": 318
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 1
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "BB",
+    "transport": "bus",
+    "tourCost": 109
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 13
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "FB",
+    "transport": "bus",
+    "tourCost": 757
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 24
+    },
+    "visitedCountries": "London",
+    "duration": 9,
+    "meal": "RO",
+    "transport": "bus",
+    "tourCost": 953
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 10
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "FB",
+    "transport": "bus",
+    "tourCost": 593
+  },
+  {
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "London",
+    "duration": 6,
+    "meal": "AI",
+    "transport": "bus",
+    "tourCost": 833
+  }
+]

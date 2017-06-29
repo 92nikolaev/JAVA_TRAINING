@@ -1,0 +1,212 @@
+[
+  {
+  	"resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 3
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 981
+  },
+  {
+  	"resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 2
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 99
+  },
+  {
+  	"resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 14
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 153
+  },
+  {
+  	"resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 15
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 995
+  },
+  {
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 10
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 803
+  },
+  { 
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 19
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 819
+  },
+  {
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 81
+  },
+  {
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 5
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 957
+  },
+  {
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 733
+  },
+  {
+    "resort":"Mins",
+  	"hotel":"minsk",
+    "cities": [
+      "London",
+      "Minsk",
+      "Vilnus",
+      "Brest"
+    ],
+    "typeTour": "EXCURSION_REST_TOUR",
+    "departureDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 10
+    },
+    "visitedCountries": "Minsk",
+    "duration": 22,
+    "meal": "HB",
+    "transport": "bus",
+    "tourCost": 356
+  }
+]
