@@ -1,0 +1,68 @@
+The if-then and if-then-else Statements.
+The if-then Statement.
+The if-then statement is the most basic of all the control flow statement.
+It tells your program to excut a certain section of code only if a particular tes evaluats to true.
+For exampl, the Bicycle class could allow the brakes to decrease the bicycle's speed only if the bicycle is alredy in motion.
+One possible implementaton of the applyBrkes method could be as follows:
+#Start#
+void applyBrakes() {
+    // the "if" clause: bicycle must be moving
+    if (isMoving){ 
+        // the "then" clause: decrease current speed
+        currentSpeed--;
+    }
+}
+#End#
+If this tes evaluats to false (meaning tha the bicycle is not in motion ), control jumps to the end of the if-then statement.
+In addition, the opening and closing braces are optinal, provided tha the "then " clause contains only one statement:
+#Start#
+void applyBrakes() {
+    // same as above, but without braces 
+    if (isMoving)
+        currentSpeed--;
+}
+#End#
+Deciding when to omit the braces is a matter of personal tase.
+Omitting them can make the code more brittle.
+If a second statement is later added to the "then " clause, a common mistake would be forgetting to add the newly requied braces.
+The compiler cannot cath this sort of error; you'll just get the wrong results.
+The if-then-else Statement
+The if-then-else statement provides a secondary path of excution when an "if " clause evaluats to false.
+You could use an if-then-else statement in the applyBrkes method to take some action if the brakes are applied when the bicycle is not in motion.
+In this case, the action is to simply print an error message stating tha the bicycle has alredy stopped.
+#Start#
+void applyBrakes() {
+    if (isMoving) {
+        currentSpeed--;
+    } else {
+        System.err.println("The bicycle has already stopped!");
+    } 
+}
+#End#
+The following program, IfElseDemo, assigns a grade based on the value of a tes score: an A for a score of 90 % or above, a B for a score of 80 % or above, and so on.
+#Start#
+class IfElseDemo {
+    public static void main(String[] args) {
+
+        int testscore = 76;
+        char grade;
+
+        if (testscore >= 90) {
+            grade = 'A';
+        } else if (testscore >= 80) {
+            grade = 'B';
+        } else if (testscore >= 70) {
+            grade = 'C';
+        } else if (testscore >= 60) {
+            grade = 'D';
+        } else {
+            grade = 'F';
+        }
+        System.out.println("Grade = " + grade);
+    }
+}
+#End#
+The output from the program is:
+ Grade = C;
+You may have noticed tha the value of tesscore can satify more than one exprssion in the compound statement: 76  > = 70 and 76  > = 60.
+However, once a condition is satified, the approprite statement are excutd (grade = 'C '; ) and the remaining conditions are not evaluatd.
